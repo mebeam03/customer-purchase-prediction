@@ -20,7 +20,7 @@ The model achieved **80.00% accuracy** on the testing dataset, correctly classif
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+<img width="733" height="590" alt="Customer Purchase Prediction Confusion Matrix" src="https://github.com/user-attachments/assets/5a864ea4-bfa9-480e-b360-2d9eac91a9e9" />
 
 The confusion matrix visualizes the model's correct and incorrect predictions for purchase and non-purchase outcomes.
 
